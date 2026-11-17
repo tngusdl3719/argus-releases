@@ -1,12 +1,13 @@
-# OfficeAwake
+# Argus
 
 맥북 덮개를 닫아도 잠들지 않게 해 주는 메뉴바 앱이에요. 정해 둔 Wi-Fi에 연결돼 있고 근무 요일·시간일 때만 켜고,
 조건이 끝나면 원래대로 되돌려요. 이 저장소는 배포용이에요. [Releases](../../releases)에서 DMG를 받으세요.
+이름은 그리스 신화에서 눈이 백 개라 잠들 때도 몇 개는 뜨고 있던 파수꾼 아르고스(Argus)에서 따왔어요.
 
 ## 설치
 
-1. 최신 릴리스에서 `OfficeAwake-<버전>.dmg`를 받아요.
-2. DMG를 열고 `OfficeAwake.app`을 `Applications` 폴더로 끌어다 놓아요.
+1. 최신 릴리스에서 `Argus-<버전>.dmg`를 받아요.
+2. DMG를 열고 `Argus.app`을 `Applications` 폴더로 끌어다 놓아요.
 3. 처음 열 때는 Apple 공증을 받지 않은 앱이라 경고가 떠요.
    - macOS 14: Finder에서 앱을 우클릭 → "열기" → "열기".
    - macOS 15 이상: 한 번 열어 본 뒤 시스템 설정 → 개인정보 보호 및 보안 → "그래도 열기".
@@ -23,7 +24,7 @@
 
 ## 제거
 
-메뉴 → "제거…" → 관리자 비밀번호를 입력한 뒤 `/Applications/OfficeAwake.app`을 휴지통으로 옮겨요.
+메뉴 → "제거…" → 관리자 비밀번호를 입력한 뒤 `/Applications/Argus.app`을 휴지통으로 옮겨요.
 
 ## 알려진 제약
 
